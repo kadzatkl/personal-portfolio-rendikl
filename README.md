@@ -4,7 +4,7 @@
 ## Built with
 * [Django==3.2.9](https://www.djangoproject.com/)
 * JavaScript
-* [Python 3.6.8](https://www.python.org/)
+* [python==3.10.0](https://www.python.org/)
 * SQLite
 
 ## Instructions
