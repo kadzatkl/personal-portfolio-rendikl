@@ -21,3 +21,4 @@
 `python manage.py runserver [port number, default=8000]`
 1. Using a web browser, go to `http://127.0.0.1:[port]/`
 
+# rendi-profile
